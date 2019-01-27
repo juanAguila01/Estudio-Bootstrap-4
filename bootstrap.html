@@ -6,58 +6,23 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/Estilos/estilosPersonales.css">
-    <title>Practica 1 grid (responsive utilities 'hidden')</title>
+    <title>responsive utilities 'hidden'</title>
 </head>
 <body>
     
     <div class="container">
-        <header class="row">
+        <div class="row">
+            <div class="columna col hidden-sm-up">XS -Extra Small</div>
+            <div class="columna col hidden-md-up hidden-xs-down">SM -Small</div>
+            <div class="columna col hidden-lg-up hidden-sm-down">MD -Medium</div>
+            <div class="columna col hidden-xl-up hidden-md-down">LG -Large</div>
+            <div class="columna col hidden-lg-down">XL -Extra Large</div>
+        </div>
+        <div class="row">
             <div class="col">
-                <h1>HEADER</h1>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Numquam, tempora provident omnis fugiat quam praesentium odit laborum sequi, ut cupiditate enim animi exercitationem quibusdam assumenda, reiciendis minima? Recusandae, eaque culpa!</p>
             </div>
-        </header>
-
-        <section class="contenedor-main row">
-            <main class="col-md-8">
-                <h2>MAIN</h2>
-                <h6 class="hidden-sm-down">columnas 8</h6>
-                <h6 class="hidden-md-up">columnas 12</h6>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores corporis repellendus, facilis voluptas eaque quod? Sint harum soluta possimus illo iusto. Facilis in dicta nulla aut fuga impedit cumque ab!</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores corporis repellendus, facilis voluptas eaque quod? Sint harum soluta possimus illo iusto. Facilis in dicta nulla aut fuga impedit cumque ab!</p>
-            </main>
-            <aside class="col-md-4 align-self-center">
-                <h3>ASIDE</h3>
-                <h6 class="hidden-sm-down">columnas 4</h6>
-                <h6 class="hidden-md-up">columnas 12</h6>
-            </aside>
-        </section>
-
-        <section class="row widgets justify-content-between">
-            <div class="col-12 col-md-4 col-lg-3">
-                <h6 class="hidden-md-down">columnas 3</h6>
-                <h6 class="hidden-sm-down hidden-lg-up">columnas 4</h6>
-                <h6 class="hidden-md-up">columnas 12</h6>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia debitis iste, quisquam, dolore ratione repellendus, voluptatibus consequuntur illum voluptas est sint doloremque aut! Id velit quod quidem vero odio sint.</p>
-            </div>
-            <div class="col-12 col-md-4 col-lg-3">
-                <h6 class="hidden-md-down">columnas 3</h6>
-                <h6 class="hidden-sm-down hidden-lg-up">columnas 4</h6>
-                <h6 class="hidden-md-up">columnas 12</h6>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia debitis iste, quisquam, dolore ratione repellendus, voluptatibus consequuntur illum voluptas est sint doloremque aut! Id velit quod quidem vero odio sint.</p>
-            </div>
-            <div class="col-12 col-md-4 col-lg-3">
-                <h6 class="hidden-md-down">columnas 3</h6>
-                <h6 class="hidden-sm-down hidden-lg-up">columnas 4</h6>
-                <h6 class="hidden-md-up">columnas 12</h6>  
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia debitis iste, quisquam, dolore ratione repellendus, voluptatibus consequuntur illum voluptas est sint doloremque aut! Id velit quod quidem vero odio sint.</p>
-            </div>
-        </section>
-
-        <footer class="row">
-            <div class="col">
-                <h4>FOOTER</h4>
-            </div>
-        </footer>
+        </div>
     </div>
 
     <script src="js/jquery-3.2.1.min.js"></script>
