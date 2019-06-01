@@ -1,0 +1,107 @@
+commit e1973a2f7388c51fcbfea7ce9603b951269ff148
+Author: Juan Aguila <juan_aguilac13@hotmail.com>
+Date:   Tue Jan 29 03:55:57 2019 -0300
+
+    ejercicio con tablas de bootstrap 4
+
+commit d7752cb084c875c4338a22f11ea9a7faf97f2e0e
+Author: Juan Aguila <juan_aguilac13@hotmail.com>
+Date:   Mon Jan 28 16:52:56 2019 -0300
+
+    Aprendiendo sobre imagenes y la etiqueta figure
+
+commit bd4bdb0d5205fb07a0fd13d6c395b17406a3b530
+Author: Juan Aguila <juan_aguilac13@hotmail.com>
+Date:   Mon Jan 28 03:31:21 2019 -0300
+
+    Etiquetas utiles para cuando quieras que tu pagina muestre codigo bien formateado
+
+commit 9b820934cdb4732becf0beda90442c5d078c75c9
+Author: Juan Aguila <juan_aguilac13@hotmail.com>
+Date:   Mon Jan 28 03:15:48 2019 -0300
+
+    tipografias y textos con bootstrap 4
+
+commit 0da906e8f6faa4568728419563fac3e7000870f6
+Author: Juan Aguila <juan_aguilac13@hotmail.com>
+Date:   Sun Jan 27 03:03:38 2019 -0300
+
+    ejercicio extra de responsive utilities HIDDEN en bootstrap 4
+
+commit ab1f1572acec8403a96cbd6cd7b65aeea135755f
+Author: Juan Aguila <juan_aguilac13@hotmail.com>
+Date:   Sun Jan 27 02:44:46 2019 -0300
+
+    Agregando hidde responsive a la primera practica
+
+commit 83bcea374da7b1e5935904529c10d74877dedb50
+Author: Juan Aguila <juan_aguilac13@hotmail.com>
+Date:   Sun Jan 27 02:25:40 2019 -0300
+
+    Primera practica a mode general con la grid de bootstrap 4
+
+commit 25e686dc6f0fb19daf6037bfe9109ae4f86af9c4
+Author: Juan Aguila <juan_aguilac13@hotmail.com>
+Date:   Sun Jan 27 01:55:29 2019 -0300
+
+    practicando columnas anidadas con bootstrap 4
+
+commit e545600033510111be2b5060e39dc479fc89e4ca
+Author: Juan Aguila <juan_aguilac13@hotmail.com>
+Date:   Sat Jan 26 18:04:51 2019 -0300
+
+    Intento a medias de crear la estructura de mi tablero de ajedrez con bootstrap 4
+
+commit 1e6b6c97291ee5e598771741aa50d951decd64da
+Author: Juan Aguila <juan_aguilac13@hotmail.com>
+Date:   Sat Jan 26 02:27:36 2019 -0300
+
+    Reordenamiento de columnas con bootstrap 4
+
+commit 95c49cabe326adc1495a119d3d1a8b627e897af8
+Author: Juan Aguila <juan_aguilac13@hotmail.com>
+Date:   Sun Jan 20 03:41:07 2019 -0300
+
+    Offset aplicado a las columnas con bootstrap 4
+
+commit e5635437b047ebcbaf4b6a6701efacee115958b7
+Author: Juan Aguila <juan_aguilac13@hotmail.com>
+Date:   Sun Jan 20 03:15:26 2019 -0300
+
+    Alineacion de columnas horizontalmente con bootstrap 4
+
+commit 2f7d8cdfc0aa7ae66c20e1f74b464f86902452a0
+Author: Juan Aguila <juan_aguilac13@hotmail.com>
+Date:   Sun Jan 20 01:58:21 2019 -0300
+
+    Alineacion vertical de columnas con Bootstrap 4
+
+commit 40f37f001d92c240949b5be6d2416c8a1d1959ba
+Author: Juan Aguila <juan_aguilac13@hotmail.com>
+Date:   Sun Jan 20 01:05:18 2019 -0300
+
+    Columnas automaticas con la grid de bootstrap 4
+
+commit 688efa01270d77a055fd4a89d9f8c147d00d2d25
+Author: Juan Aguila <juan_aguilac13@hotmail.com>
+Date:   Fri Jan 18 11:54:34 2019 -0300
+
+    Creando un ejercicio responsive
+
+commit 1d891d1cfc6638955790f88de5732c52c53d22e6
+Author: Juan Aguila <juan_aguilac13@hotmail.com>
+Date:   Thu Jan 17 11:39:07 2019 -0300
+
+    Probando el grid de columnas responsive
+
+commit 563c4861a71990918056eb87416651fb782621b6
+Author: Juan Aguila <juan_aguilac13@hotmail.com>
+Date:   Thu Jan 17 11:12:08 2019 -0300
+
+    Entendiendo la grid de filas y columnas de bootstrap
+
+commit 46f9046f18e579a9f3b5962e00543d8daeda53fa
+Author: Juan Aguila <juan_aguilac13@hotmail.com>
+Date:   Wed Jan 16 13:00:24 2019 -0300
+
+    Inicio proyecto para aprender Bootstrap profecionalmente
